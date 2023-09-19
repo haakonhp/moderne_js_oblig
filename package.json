@@ -1,6 +1,16 @@
 {
-  "name": "moderne_js_oblig",
+  "name": "moderne-js-oblig",
   "version": "1.0.0",
+  "author": "Håkon Halland Hovland Pedersen",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
   "dependencies": {
-  }
+    "expect": "27.4.6",
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
 }
